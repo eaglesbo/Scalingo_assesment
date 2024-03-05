@@ -1,0 +1,15 @@
+# HTTP SERVER Address
+server:
+  listen: ":8095"
+
+# HTTP Authentication
+Login:
+  username: admin
+  password: y1dAmx2ldtcWUTg
+
+# Github PAT (the account is a demo account created for the assessment purposes)
+Personal_access_token: "Bearer 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"
+
+# JWT Secret Key
+Jwt_key: "Scalingo-443322"
+
